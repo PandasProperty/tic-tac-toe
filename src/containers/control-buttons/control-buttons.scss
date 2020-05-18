@@ -1,0 +1,10 @@
+.control-buttons {
+    margin-top: 20px;
+
+    &__button {
+        margin-left: 10px;
+        margin-right: 10px;
+        padding: 5px 15px;
+        border-radius: 15px;
+    }
+}

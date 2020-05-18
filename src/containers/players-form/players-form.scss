@@ -1,0 +1,28 @@
+.players-form {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    color: white;
+
+    &__button {
+        margin-top: 40px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 20px;
+        padding-right: 20px;
+        border-radius: 15px;
+
+        &--disabled {
+            border: 1px solid #999999;
+            background-color: #cccccc;
+            color: #666666;
+        }
+    }
+
+    &__link {
+        &--disabled {
+            color: #666666;
+        }
+    }
+}

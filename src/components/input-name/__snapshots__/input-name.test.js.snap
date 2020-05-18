@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`InputName Check Rendering 1`] = `
+<div
+  className="input-name__container"
+>
+  <div
+    className="input-name__content"
+  >
+    <svg
+      aria-hidden="true"
+      className="svg-inline--fa fa-circle fa-w-16 "
+      color="red"
+      data-icon="circle"
+      data-prefix="fas"
+      focusable="false"
+      role="img"
+      style={Object {}}
+      viewBox="0 0 512 512"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8z"
+        fill="currentColor"
+        style={Object {}}
+      />
+    </svg>
+    <label
+      className="input-name__label"
+    >
+      Player 
+    </label>
+  </div>
+  <input
+    className="input-name__input"
+    onChange={[Function]}
+    type="text"
+    value="test"
+  />
+</div>
+`;

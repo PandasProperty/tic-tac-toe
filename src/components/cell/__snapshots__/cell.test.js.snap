@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Cell Cell should render correctly when an X is there 1`] = `
+<div
+  className="cell"
+  onClick={[Function]}
+  style={
+    Object {
+      "color": "red",
+    }
+  }
+>
+  X
+</div>
+`;

@@ -1,0 +1,20 @@
+.input-name {
+    &__container {
+        width: 200px;
+        margin-top: 40px;
+    }
+
+    &__content {
+        margin-bottom: 10px;
+    }
+
+    &__label {
+        margin-left: 10px;
+    }
+
+    &__input {
+        width: 100%;
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+}
