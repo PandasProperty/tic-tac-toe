@@ -1,5 +1,6 @@
-We have a little basic tic-tac-toe written in react with tests for some components 
-and for the reducers and utils functions.
+We have a little basic tic-tac-toe written in react with tests for some components and for the reducers and utils functions.
+
+![Image description](https://raw.githubusercontent.com/PandasProperty/tic-tac-toe/master/tic-tac-toe.png)
 
 The colors are chosen random, as the players order.
 
